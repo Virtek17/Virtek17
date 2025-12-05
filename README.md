@@ -1,16 +1,1 @@
-# Привет, я Илья 👋
-Web-разработчик | React, Solid.js
-
-## 🔧 Технологии
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,supabase,tailwind,ts,wordpress,php)](https://skillicons.dev)
-
- 📂 Мои проекты
-- [Проект 1](ссылка) – описание
-- [Проект 2](ссылка) – описание
-
-## 📈 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=radical)
-
-## 📫 Контакты
-[Telegram](https://t.me/твой_ник) | [VK](https://vk.com/твой_ник)
 
