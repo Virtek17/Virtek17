@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Илья 👋
+Web-разработчик | React, Solid.js
 
-<!--
-**Virtek17/Virtek17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Технологии
+JavaScript | TypeScript | React | Solid.js | HTML | CSS/SASS | PHP | WordPress
 
-Here are some ideas to get you started:
+## 📂 Мои проекты
+- [Проект 1](ссылка) – описание
+- [Проект 2](ссылка) – описание
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=radical)
+
+## 📫 Контакты
+[Telegram](https://t.me/твой_ник) | [VK](https://vk.com/твой_ник)
