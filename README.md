@@ -2,7 +2,7 @@
 Web-разработчик | React, Solid.js
 
 ## 🔧 Технологии
-JavaScript | TypeScript | React | Solid.js | HTML | CSS/SASS | PHP | WordPress
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,supabase,tailwind,ts,wordpress,php)](https://skillicons.dev)
 
 ## 📂 Мои проекты
 - [Проект 1](ссылка) – описание
@@ -13,4 +13,3 @@ JavaScript | TypeScript | React | Solid.js | HTML | CSS/SASS | PHP | WordPress
 
 ## 📫 Контакты
 [Telegram](https://t.me/твой_ник) | [VK](https://vk.com/твой_ник)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
